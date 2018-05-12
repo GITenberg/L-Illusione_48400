@@ -1,4 +1,8 @@
 _repo: L-Illusione_48400
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 48400-h/images/cover.jpg
 creator:
   author:
     agent_name: De Roberto, Federico
@@ -11,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/31124
     wikipedia: http://it.wikipedia.org/wiki/Federico_De_Roberto
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48400#L-Illusione
 gutenberg_bookshelf: IT Romanzi
 gutenberg_issued: '2015-03-03'
 gutenberg_type: Text
